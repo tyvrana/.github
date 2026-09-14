@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tyvrana
+<img src="./tyvrana-logo-horizontal-light.svg" alt="Tyvrana" width="620">
 
 ### Autonomous AI creation across professional 3D tools
 
